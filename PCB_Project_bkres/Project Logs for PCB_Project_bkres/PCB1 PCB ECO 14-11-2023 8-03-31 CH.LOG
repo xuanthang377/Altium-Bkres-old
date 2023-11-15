@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=Sheet2 Member=U2
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator=3.3V NewDesignator=C8
+Change Component Designator: OldDesignator=5V NewDesignator=C9
+Change Component Designator: OldDesignator=12V >1A NewDesignator=JDC1
+Change Component Designator: OldDesignator=CLK NewDesignator=R13
+Change Component Designator: OldDesignator=CSO NewDesignator=R11
+Change Component Designator: OldDesignator=DisP NewDesignator=JP1
+Change Component Designator: OldDesignator=DO NewDesignator=JP3
+Change Component Designator: OldDesignator=EC NewDesignator=JP2
+Change Component Designator: OldDesignator=GND NewDesignator=CN1
+Change Component Designator: OldDesignator=MISO NewDesignator=R14
+Change Component Designator: OldDesignator=MOSI NewDesignator=R12
+Change Component Designator: OldDesignator=pH NewDesignator=pH1
+Change Component Designator: OldDesignator=POWER NewDesignator=P
+Change Component Designator: OldDesignator=RTC NewDesignator=JP4
+Change Component Designator: OldDesignator=TEMP NewDesignator=TEMP1
+Change Component Designator: OldDesignator=UART NewDesignator=SIM_UART1
+Added Member To Class: ClassName=Sheet2 Member=Component IC1 4053
+Added Member To Class: ClassName=Sheet2 Member=Component P SIM_UART
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component Q2 DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component Q3 DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component R3 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R4 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R5 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R6 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R7 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R10 10k
+Added Room: Name=Sheet2

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=pH_ON Pin=Q?-2
+Removed Pin From Net: NetName=pH_ON_5V Pin=Q?-3
+Added Component: Designator=D?(DO-214AC)
+Added Component: Designator=D?(DO-214AC)
+Added Component: Designator=RL?(RL_G6S-2)
+Added Component: Designator=RL?(RL_G6S-2)
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=5V Pin=D?-2
+Added Pin To Net: NetName=5V Pin=D?-2
+Added Pin To Net: NetName=3.3V Pin=Q?-1
+Added Pin To Net: NetName=3.3V Pin=Q?-1
+Added Pin To Net: NetName=3.3V Pin=Q?-1
+Added Pin To Net: NetName=DO_ON Pin=Q?-2
+Added Pin To Net: NetName=EC_ON Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=pH_ON Pin=Q?-2
+Added Pin To Net: NetName=DO_ON_5V Pin=Q?-3
+Added Pin To Net: NetName=EC_ON_5V Pin=Q?-3
+Added Pin To Net: NetName=NetD?_1 Pin=Q?-3
+Added Pin To Net: NetName=pH_ON_5V Pin=Q?-3
+Added Pin To Net: NetName=5V Pin=RL?-1
+Added Pin To Net: NetName=5V Pin=RL?-1
+Added Pin To Net: NetName=DO_ADC Pin=RL?-4
+Added Pin To Net: NetName=EC_ADC Pin=RL?-4
+Added Pin To Net: NetName=NetJP?_1 Pin=RL?-5
+Added Pin To Net: NetName=NetJP?_3 Pin=RL?-8
+Added Pin To Net: NetName=GND Pin=RL?-9
+Added Pin To Net: NetName=GND Pin=RL?-9
+Added Pin To Net: NetName=NetD?_1 Pin=RL?-12
+Added Member To Class: ClassName=Sheet2 Member=Component C? 100u
+Added Member To Class: ClassName=Sheet2 Member=Component C? JP15
+Added Member To Class: ClassName=Sheet2 Member=Component C? 100u
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? JP15
+Added Member To Class: ClassName=Sheet2 Member=Component D? D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D? D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component JP? EC
+Added Member To Class: ClassName=Sheet2 Member=Component Q? DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component Q? HF
+Added Member To Class: ClassName=Sheet2 Member=Component Q? DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component Q? DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component RL? RL-G6S-2
+Added Member To Class: ClassName=Sheet2 Member=Component RL? RL-G6S-2

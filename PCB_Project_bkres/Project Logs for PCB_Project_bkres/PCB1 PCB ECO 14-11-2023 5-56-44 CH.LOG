@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=CLK Pin=SD CARD1-2
+Removed Pin From Net: NetName=MISO Pin=SD CARD1-3
+Removed Pin From Net: NetName=MOSI Pin=SD CARD1-4
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator=DisP NewDesignator=JP1
+Change Component Designator: OldDesignator=DO NewDesignator=JP3
+Change Component Designator: OldDesignator=EC NewDesignator=JP2
+Change Component Designator: OldDesignator=pH NewDesignator=pH1
+Change Component Designator: OldDesignator=Temp NewDesignator=TEMP1
+Change Component Designator: OldDesignator=UART2 NewDesignator=SIM_UART1
+Added Pin To Net: NetName=MOSI Pin=SD CARD1-2
+Added Pin To Net: NetName=CLK Pin=SD CARD1-3
+Added Pin To Net: NetName=MISO Pin=SD CARD1-4
+Added Member To Class: ClassName=Sheet2 Member=Component JP2 EC
+Added Member To Class: ClassName=Sheet2 Member=Component JP3 DO
+Added Member To Class: ClassName=Sheet2 Member=Component pH1 pH
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component Q2 DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component Q3 DMN2075U-7
+Added Member To Class: ClassName=Sheet2 Member=Component R3 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R4 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R5 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R6 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R7 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R8 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R10 10k
+Added Member To Class: ClassName=Sheet2 Member=Component TEMP1 JP 1x2 2.54
+Added Room: Name=Sheet2

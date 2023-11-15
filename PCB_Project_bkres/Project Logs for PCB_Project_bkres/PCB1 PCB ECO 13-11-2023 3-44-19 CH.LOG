@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=C4-15
+Added Member To Class: ClassName=Sheet2 Member=Component C1 C-P
+Added Member To Class: ClassName=Sheet2 Member=Component C2 C-N
+Added Member To Class: ClassName=Sheet2 Member=Component C5 C-P
+Added Member To Class: ClassName=Sheet2 Member=Component C6 C-N
+Added Member To Class: ClassName=Sheet2 Member=Component CN1 MicroSD Card
+Added Member To Class: ClassName=Sheet2 Member=Component D1 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D2 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component Q4 C1815
+Added Member To Class: ClassName=Sheet2 Member=Component Q5 C1815
+Added Member To Class: ClassName=Sheet2 Member=Component R7 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R9 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R10 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R11 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R12 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R13 1k

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=CSO Pin=CN1-1
+Removed Pin From Net: NetName=MOSI Pin=CN1-2
+Removed Pin From Net: NetName=3.3V Pin=CN1-3
+Removed Pin From Net: NetName=CLK Pin=CN1-4
+Removed Pin From Net: NetName=GND Pin=CN1-5
+Removed Pin From Net: NetName=MISO Pin=CN1-6
+Removed Member From Class: ClassName=Sheet2 Member=CN1
+Added Component: Designator=CN?(MicroSD Card)
+Added Pin To Net: NetName=DC_IN Pin=C10-1
+Added Pin To Net: NetName=CSO Pin=CN?-2
+Added Pin To Net: NetName=MOSI Pin=CN?-3
+Added Pin To Net: NetName=3.3V Pin=CN?-4
+Added Pin To Net: NetName=CLK Pin=CN?-5
+Added Pin To Net: NetName=GND Pin=CN?-6
+Added Pin To Net: NetName=MISO Pin=CN?-7
+Added Pin To Net: NetName=DC_IN Pin=JDC1-1
+Added Pin To Net: NetName=5V_SIM Pin=JP3-4
+Added Pin To Net: NetName=DC_IN Pin=U2-1
+Added Member To Class: ClassName=Sheet2 Member=Component CN? MicroSD Card
